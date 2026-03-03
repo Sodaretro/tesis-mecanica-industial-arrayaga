@@ -8,9 +8,9 @@
 | Fecha | Commit | Archivos | Funcionalidad |
 |-------|--------|----------|---------------|
 | **17 ene** | `7ef4b4d` | `style.css`, `navigation-menu-hf.*` | **Front-end**: Inicio + navegación |
-| **20 ene** | `[hash]` | `page-nosotros.php` | **Páginas estáticas** |
-| **25 ene** | `[hash]` | `procesar.php` | **Back-end**: Formulario PHP seguro |
-| **28 ene** | `[hash]` | `style.css` (media queries) | **Responsive**: Móvil/Tablet |
+| **20 ene** | `c945bfe` | `page-nosotros.php` | **Páginas estáticas** |
+| **25 ene** | `2aaadae` | `procesar.php` | **Back-end**: Formulario PHP seguro |
+| **28 ene** | `238964b` | `style.css` (media queries) | **Responsive**: Móvil/Tablet |
 ## 🏗️ Arquitectura
 
 ```mermaid
